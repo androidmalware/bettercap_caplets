@@ -1,0 +1,4 @@
+wifi.recon on
+set ticker.period 5
+set ticker.commands clear; wifi.show;
+ticker on
